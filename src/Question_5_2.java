@@ -6,7 +6,8 @@ public class Question_5_2 {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		longestPalindrome("ss");
+		System.out.println(longestPalindrome("asa"));
+		System.out.println(1.0/0.0);
 	}
 	public static String longestPalindrome(String s){
 		int start = 0,end = 0;
